@@ -1,4 +1,4 @@
-# proto-web: Lost Tapes.
+# proto-web: Missing Tapes.
 ## Descrição:
 O objetivo deste projeto é desenvolver a especificação e o protótipo de interface de um aplicativo web. O aplicativo será projetado como um facilitador de financiamento coletivo para filmes independentes. Na parte do usuário deverá conter, no mínimo, as funcionalidade de cadastro e autenticação de usuário. Na parte do serviço, deverá ter as funcionalidades de cadastro/atualização/consulta/exclusão de filmes no catálogo
 ## Membros:
